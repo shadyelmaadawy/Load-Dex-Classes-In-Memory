@@ -14,10 +14,8 @@ So? today I will give you a REAL-WORLD HEADACHE, and it's far from .NET This tim
 # Note:
 Before we jump into the next section, you can execute this idea with any Operation system, for example:
 
-- IOS:
-    - Stay tuned ; )
-- macOS:
-    - Mach-O, [ APPLE Loader Source ](https://opensource.apple.com/source/xnu/xnu-4570.71.2/EXTERNAL_HEADERS/mach-o/loader.h.auto.html) 
+- IOS/macOS:
+    - [ macOS Example ](https://github.com/shadyelmaadawy/Load-And-Execute-Dynamic-Libraries-With-Swift_CPP-IN-OS-X), [  Mach-O File Structure APPLE Source ](https://opensource.apple.com/source/xnu/xnu-4570.71.2/EXTERNAL_HEADERS/mach-o/loader.h.auto.html) 
 - Windows: 
     - .NET: Reflection Assembly
     - In Native Platforms: LoadLibrary, Manual Mapping... etc.
